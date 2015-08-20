@@ -4,3 +4,4 @@ author: "kindohm"
 exclude: [README.md, CNAME]
 paginate: 5
 permalink: /:title
+markdown: redcarpet

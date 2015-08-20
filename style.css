@@ -48,6 +48,10 @@ a { color: #09c; text-decoration: none; }
 a:hover { color: #069; }
 h1 a { color: #333;}
 
+ul {
+  margin-bottom: 32px;
+}
+
 .wrap {
   width: 90%;
   max-width: 768px;
@@ -66,3 +70,4 @@ h1 a { color: #333;}
 .fr { float: right; }
 
 .gray { color: #999; }
+
