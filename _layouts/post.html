@@ -5,6 +5,22 @@
   <h1><a href="{{ site.url }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
   {{ content }}
   <p class="small gray"><time datetime="{{ page.date | date: "%Y-%m-%d"}}">{{ page.date | date_to_long_string }}</time></p>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'blog-kindohm-com';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+  
 </article>
 </main>
 {% include _footer.html %}
