@@ -1,6 +1,6 @@
 name: "kindohm (a.k.a. mike hodnick)"
 description: "code and music blog"
-author: "kindohm"
+author: "Mike Hodnick"
 exclude: [README.md, CNAME]
 paginate: 5
 paginate_path: "/page:num/"
