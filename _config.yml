@@ -3,5 +3,8 @@ description: "code and music"
 author: "kindohm"
 exclude: [README.md, CNAME]
 paginate: 5
-permalink: /:title
+paginate_path: "/page:num/"
+permalink: /:year/:month/:day/:title
 markdown: redcarpet
+imagesPath: "/images/"
+gems: ["jekyll-paginate"]
