@@ -20,7 +20,7 @@ as from some new experiments involving the abuse of MIDI messages from code.
 
 Where/When:<br/>
 1493 Taylor Ave, St. Paul<br/>
-Doors: 5:30, Music: 6:00
+Doors: 6:30, Music: 7:00
 
 Facebook: <a href="https://www.facebook.com/events/924529487645951/">facebook.com/events/924529487645951/</a>
 
